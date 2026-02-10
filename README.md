@@ -18,7 +18,7 @@ Lead & Senior Full-Stack Web3 Engineer
 ---
 
 ### 🔹 eesee.io — Team Lead / Senior Fullstack Engineer
-[eesee.io](https://eesee.io) Multi-chain decentralized launchpad & RWA marketplace (EVM / Solana / TON)
+[eesee.io](https://eesee.io) Cross-chain decentralized launchpad & RWA marketplace (EVM / Solana / TON)
 
 ---
 
@@ -32,7 +32,6 @@ Worked on multiple DeFi and Web3 products:
 ---
 
 ### 🔹 Platinum — Senior Frontend Engineer
-- [SpaceSwap AMM & farming dApp](spaceswap.app)
-- Close collaboration with backend and smart-contract teams
+- [SpaceSwap](spaceswap.app) AMM & farming dApp
 
 ---
