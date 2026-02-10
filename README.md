@@ -3,6 +3,8 @@
 Lead & Senior Full-Stack Web3 Engineer  
 8+ years in production development | DeFi, DAO, Launchpads, Web3 Infrastructure
 
+[![Linkedin: Alan](https://img.shields.io/badge/-Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-n-237302342/)]([https://www.linkedin.com/in/juglipaff/](https://www.linkedin.com/in/alan-n-237302342/))
+[![GitHub Alan](https://img.shields.io/github/followers/anbv23?label=follow&style=social)](https://github.com/anbv23)
 ---
 
 ## 🧠 About
