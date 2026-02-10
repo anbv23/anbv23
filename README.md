@@ -17,21 +17,16 @@ Lead & Senior Full-Stack Web3 Engineer
 
 ---
 
-### 🔹 eesee.io — Team Lead / Senior Fullstack Engineer
-[eesee.io](https://eesee.io) Cross-chain decentralized launchpad & RWA marketplace (EVM / Solana / TON)
-
----
-
-### 🔹 Mycelium Labs — Tech Lead / Fullstack Engineer
-Worked on multiple DeFi and Web3 products:
+### 🔹 Notable projects
+- [eesee.io](https://eesee.io) Cross-chain decentralized launchpad & RWA marketplace (EVM / Solana / TON)
 - [Tractikum](https://tractikum.com) (ad-tracker / FB manager)
 - [WantToPayBot](https://t.me/wanttopaybot) (Telegram crypto payments)
 - [OlympusDAO](https://olympusdao.finance) infrastructure
 - [UNO Farm](https://uno.farm) (multi-chain yield farming)
-
----
-
-### 🔹 Platinum — Senior Frontend Engineer
 - [SpaceSwap](spaceswap.app) AMM & farming dApp
 
 ---
+
+### 🔹 Contacts
+- [Telegram](https://t.me/anbv23) (multi-chain yield farming)
+- [LinkedIn]([spaceswap.app](https://www.linkedin.com/in/alan-n-237302342/)) AMM & farming dApp
