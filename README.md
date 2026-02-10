@@ -25,18 +25,18 @@ Lead & Senior Full-Stack Web3 Engineer
 
 ---
 ### 🔹 Participated in grants and hackathons
-# - 1inch Grant Program
+ - 1inch Grant Program
 Developed a non-custodial wallet extension for ethereum like networks
 
-$ - Gitcoin Hackathon, 11th round
+ - Gitcoin Hackathon, 11th round
 Developed a non-custodial wallet extension for the Vite blockchain
 
-# - Near Foundation Hackathon
+- Near Foundation Hackathon
 Developed frontend for structured liquidity protocol based on near networ
 
 ---
 ### 🔹 Сontributed to the ru developer community:
-[Habr](https://habr.com/ru/users/AlanNabiev/articles/)
+[Habr Articles](https://habr.com/ru/users/AlanNabiev/articles/)
 
 ---
 ### 🔹 Contacts
