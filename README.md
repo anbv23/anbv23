@@ -29,4 +29,4 @@ Lead & Senior Full-Stack Web3 Engineer
 
 ### 🔹 Contacts
 - [Telegram](https://t.me/anbv23) (multi-chain yield farming)
-- [LinkedIn]([spaceswap.app](https://www.linkedin.com/in/alan-n-237302342/)) AMM & farming dApp
+- [LinkedIn](https://www.linkedin.com/in/alan-n-237302342/) AMM & farming dApp
