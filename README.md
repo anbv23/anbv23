@@ -36,7 +36,7 @@ Developed frontend for structured liquidity protocol based on near networ
 
 ---
 ### 🔹 Сontributed to the ru developer community:
-[Habr Articles](https://habr.com/ru/users/AlanNabiev/articles/)
+- [Habr Articles](https://habr.com/ru/users/AlanNabiev/articles/)
 
 ---
 ### 🔹 Contacts
