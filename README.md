@@ -21,7 +21,7 @@ Lead & Senior Full-Stack Web3 Engineer
 - [WantToPayBot](https://t.me/wanttopaybot) (Telegram crypto payments)
 - [OlympusDAO](https://olympusdao.finance) infrastructure
 - [UNO Farm](https://uno.farm) (multi-chain yield farming)
-- [SpaceSwap](spaceswap.app) AMM & farming dApp
+- [SpaceSwap](https://spaceswap.app) AMM & farming dApp
 
 ---
 ### 🔹 Participated in grants and hackathons
