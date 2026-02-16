@@ -25,20 +25,22 @@ Lead & Senior Full-Stack Web3 Engineer
 
 ---
 ### 🔹 Participated in grants and hackathons
- - 1inch Grant Program
+
+ - **1inch Grant Program**
 Developed a non-custodial wallet extension for ethereum like networks
+**Announce**: The last paragraph at the [blog.1inch](https://blog.1inch.com/the-1inch-foundation-releases-585-000-to-grantees/)
 
- - Gitcoin Hackathon, 11th round
+ - **Gitcoin Hackathon, 11th round**
 Developed a non-custodial wallet extension for the Vite blockchain
+**Code**: [vite-extension](https://github.com/sarmatdev/vite-extension)
+**Announce**: [vitelabs](https://www.gitcoin.co/issue/vitelabs/bounties/12/10002646)
 
-- Near Foundation Hackathon
+- **Near Foundation Hackathon**
 Developed frontend for structured liquidity protocol based on near networ
+**Announce**: [crisp.exchange](https://www.crisp.exchange/)
 
 ---
-### 🔹 Сontributed to the ru developer community:
-- [Habr Articles](https://habr.com/ru/users/AlanNabiev/articles/)
-
----
-### 🔹 Contacts
-- [Telegram](https://t.me/anbv23) (multi-chain yield farming)
-- [LinkedIn](https://www.linkedin.com/in/alan-n-237302342/) AMM & farming dApp
+### 🔹 Socials
+- [Telegram](https://t.me/anbv23)
+- [LinkedIn](https://www.linkedin.com/in/alan-n-237302342/)
+- [Habr](https://habr.com/ru/users/AlanNabiev/articles/)
